@@ -1,0 +1,24 @@
+
+# -------------------------------------------------------------------------------------------------
+# -------------- Renúncia de responsabilidade -------------------------
+# -------------------------------------------------------------------------------------------------
+
+    Toda informação e sequencia de passos algorítmicos (código fonte) apresentada dentro de todas as “Formações” e/ou Cursos é apenas para fins educacionais e de auxílio (coaching) para iniciantes e desenvolvedores que queiram aprender as trilhas de IA.
+
+    Qualquer pessoa pode praticar e aplicar a sequencia de passos algorítmicos apresentada nas Formações e/ou Cursos, mas o estudante (leitor) está a assumir total responsabilidade pelas suas ações; pois algumas bibliotecas computacionais possuem comandos que podem dar ao interpretador python acesso ao HD na modalidade escrita (write); como também executar ações em seu disco rígido e/ou drive de nuvem.
+
+    O IA-LABS fez todos os esforços para assegurar que a exatidão da informação desta sequencia de passos algorítmicos (código fonte / programa) estava correta no momento da criação e/ou publicação.
+
+    O IA-LABS não assume e pelo presente declina qualquer responsabilidade para com qualquer parte por qualquer perda, dano, ou perturbação causada por erros ou omissões, quer tais erros ou omissões resultem de acidente, negligência, ou qualquer outra coisa.
+
+    O IA-LABS informa que algumas das informações aqui apresentadas podem também ser encontradas em domínios de conhecimento público.
+
+
+# -------------------------------------------------------------------------------------------------
+# ---------------- Agradecimento ---------------------
+# -------------------------------------------------------------------------------------------------
+
+    O IA-LABS, na pessoa do autor também agradece a todos os editores e colaboradores dos conjuntos de dados de código aberto em: 
+    a) UCI Machine Learning Repository (https://archive.ics.uci.edu/ml/index.php), 
+    b) Network Repository (https://networkrepository.com),
+    c) Kaggle (https://www.kaggle.com/datasets), assim como reconhece os seus amáveis esforços em disponibilizar fontes de dados para toda comunidade que trabalha e/ou estuda as trilhas de IA.
